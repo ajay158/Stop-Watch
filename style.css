@@ -3,3 +3,30 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body{
+    background: #9bbebe;
+}
+
+.watch{
+    background: #000;
+    text-align: center;
+    padding: 2rem 3rem;
+    position: fixed;
+    border-radius: 5px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.time{
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+button{
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
