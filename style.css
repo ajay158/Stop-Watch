@@ -1,14 +1,14 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     background: #9bbebe;
 }
 
-.watch{
+.watch {
     background: #000;
     text-align: center;
     padding: 2rem 3rem;
@@ -19,14 +19,14 @@ body{
     transform: translate(-50%, -50%);
 }
 
-.time{
+.time {
     color: #fff;
     font-size: 2rem;
     font-weight: 500;
     margin-bottom: 0.5rem;
 }
 
-button{
+button {
     padding: 5px 10px;
     text-transform: uppercase;
 }
